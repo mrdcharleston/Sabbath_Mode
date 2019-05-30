@@ -1,4 +1,4 @@
-package com.example.sabbath_mode;
+package com.example.sabbath_mode.test;
 
 import org.junit.Test;
 
